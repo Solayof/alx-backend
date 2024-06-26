@@ -20,7 +20,6 @@ class LFUCache(BaseCaching):
         """
         pass
 
-
     def get(self, key):
         """Get method.
         """
